@@ -159,19 +159,17 @@ de encontrar o container do **prometheus** na rede. Um comportamento similar a h
 
 ## Informações de suporte
 
-* Talvez você pode estar se perguntando, qual a função sobre o docker-compose. [Aqui você pode encontrar](https://docs.docker.com/compose/)
-  * Se você está curioso, e que entender um pouco mais sobre a criação de um compose file. [Este link é uma ótima fonte para isso](https://docs.docker.com/compose/gettingstarted/)
-  * Ou ainda você quer algumas dicas de como criar imagens para ambiente de desenvolvimento. [Aqui você pode encontrar
-  algumas dicas de como fazer isso de maneira eficiente](https://docs.docker.com/develop/dev-best-practices/)
-  * Mas se você se interessou pelo arquivo do compose e gostaria de explorar mais. [Você pode encontrar na documentação
-  a referência](https://docs.docker.com/compose/compose-file/).
-  * Um ponto importante, é que existe uma matriz de compatibilidade entre docker e docker-compose. Muito cuidado com
-  esse detalhe isso pode causar um funcionamento inadequado. [Aqui você pode encontrar este link](https://docs.docker.com/compose/compose-file/compose-versioning/)
-  * Mas se você sentiu a falta de um conteúdo mais prático. [Aqui você pode aprender como rodar algumas aplicações](https://www.alura.com.br/artigos/compondo-uma-aplicacao-com-o-docker-compose)
-* Talvez você se interesse por redes em containers. Então aqui temos alguns links úteis  
-    * Se você interessou-se pelo comportamento de redes nos containers. [Esse link explica
-    detalhes do funcionamento de redes](https://docs.docker.com/config/containers/container-networking/)
-    * Talvez você pode se perguntar qual é o modelo padrão de rede no docker. [Este link explica um pouco do modelo bridge](https://docs.docker.com/network/bridge/)    
-    * Ou ainda pode ter alguma dúvida sobre a existência de outros modelos de rede no docker. [Sim, temos um modelo chamado overlay, aqui você acha detalhes sobre ele](https://docs.docker.com/network/overlay/) 
-* Ou ainda voc    
-    
+### Docker
+
+* [**Docker - Redes e Containers**](https://docs.docker.com/config/containers/container-networking/)
+* [**Docker - Redes - Bridge**](https://docs.docker.com/network/bridge/)    
+* [**Docker - Redes - Overlay**](https://docs.docker.com/network/overlay/) 
+
+### Docker compose
+
+* [**Docker compose - Documentação**](https://docs.docker.com/compose/)
+* [**Docker compose - Criando um arquivo docker compose**](https://docs.docker.com/compose/gettingstarted/)
+* [**Docker compose - Melhores práticas**](https://docs.docker.com/develop/dev-best-practices/)
+* [**Docker compose - Mais informações sobre o arquivo**](https://docs.docker.com/compose/compose-file/).
+* [**Docker compose - Versionamento do compose**](https://docs.docker.com/compose/compose-file/compose-versioning/)
+* [**Docker compose - Alura - Compondo uma aplicação com o docker compose**](https://www.alura.com.br/artigos/compondo-uma-aplicacao-com-o-docker-compose)

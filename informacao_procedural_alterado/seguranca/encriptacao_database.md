@@ -36,7 +36,7 @@ requisitos de segurança.
 
 
 # Informação de Suporte
-* Se por algum motivo você se interessou pelo assunto de criptografia, [esse link define uma série de termos bem importantes
-nesse contexto](https://www.ssl2buy.com/wiki/symmetric-vs-asymmetric-encryption-what-are-differences)
-* [Este link](https://searchsecurity.techtarget.com/definition/asymmetric-cryptography) pode te ajudar entender criptografia assimétrica
-* Se você quiser se aprofundar no modelo de criptografia simétrico, [este link pode te ajudar](https://www.cryptomathic.com/news-events/blog/symmetric-key-encryption-why-where-and-how-its-used-in-banking)
+
+* [**Diferenças entre criptografia Simétrica e Assimétrica**](https://www.ssl2buy.com/wiki/symmetric-vs-asymmetric-encryption-what-are-differences)
+* [**Mais sobre Criptografia Simétrica**](https://www.cryptomathic.com/news-events/blog/symmetric-key-encryption-why-where-and-how-its-used-in-banking)
+* [**Mais sobre Criptografia Assimétrica**](https://searchsecurity.techtarget.com/definition/asymmetric-cryptography)
