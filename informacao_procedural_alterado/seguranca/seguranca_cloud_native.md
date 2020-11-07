@@ -28,7 +28,7 @@ Outra prática amplamente utilizada para evitar ataques ou roubo de dados nas no
 Mas... e na fase de produção, quando sistema já esta sendo executado pelo usuário
 final. 
 Tem alguma técnica que eu possa aplicar para reduzir ainda mais os riscos?? Simmm!!!!
-Existe uma prática recomendada para você minimizar a área de ataques. [Zup Academy - Privilégios míninmos.](minimo_privilegios.md)
+Existe uma prática recomendada para você minimizar a área de ataques. [Zup Academy - Privilégios mínimos.](minimo_privilegios.md)
 
 ## Dicas de Claudio Eduardo Oliveira
 

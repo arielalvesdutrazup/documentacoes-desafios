@@ -32,10 +32,9 @@ que temos um elemento chamado **keycloak**. Abaixo segue o fragmento
 A porta de administração padrão do keycloak é **8080**, mas perceba que fizemos um "bind" para
 porta **18080**.
 
-Faça o login na plataforma, caso você tenha algum problema em realizar o login [este link pode te ajudar](keycloak-login.md)
+Faça o login na plataforma, caso você tenha algum problema em [realizar o login](keycloak-login.md).
 
-Depois disso você deve certificar-se que você esteja no seu Realm previamente criado. Se por algum motivo você não criou seu Realm, sem problemas
-[este link vai te ajudar com isso](keycloak-realm.md)
+Depois disso você deve certificar-se que você esteja no seu Realm previamente criado. Se por algum motivo você não [criou seu Realm](keycloak-realm.md).
 
 No canto superior esquerdo você pode ver o Realm selecionado, na figura abaixo estamos no Nosso-cartao, no menu **Configure** 
 seleciona a opção **Client Scopes** e então clique no botão **Create**. Como na figura abaixo:
