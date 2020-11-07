@@ -49,4 +49,5 @@ No próximo passo você vai precisar informar a senha do usuário que estamos ca
 
 ## Informações de suporte
 
-* Talvez você pode estar se perguntando, qual a função sobre o docker-compose. [Aqui você pode encontrar](https://docs.docker.com/compose/) 
+* [Docker Compose - Documentação](https://docs.docker.com/compose/)
+

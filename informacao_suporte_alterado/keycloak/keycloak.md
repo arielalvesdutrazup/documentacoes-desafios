@@ -32,29 +32,42 @@ nossas integrações que serão realizadas no próximos passos.
 - Logar no nosso IAM, escolhemos o Keycloak para este fim
 
 ## Informações de suporte
- 
+
+### IAM
+
 * [**IAM - Identity and Access Management**](https://www.gartner.com/en/information-technology/glossary/identity-and-access-management-iam)
   
 * [**IAM - Mais informações produzidas por uma companhia que criou uma implementação de IAM**](https://www.okta.com/identity-101/federated-identity-vs-sso/)
   
+### SSO
+
 * [**SSO - Single Sign-On**](https://searchsecurity.techtarget.com/definition/federated-identity-management) 
 
 * [**SSO - Mais informações**](https://www.cloudflare.com/learning/access-management/what-is-sso/)
 
-* [**Licenças Open Source**](https://opensource.org/licenses)        
+
+### KeyClock
 
 * [**KeyCloak - Site**](https://www.keycloak.org/)
-  
- * [**KeyCloak no CNFC**](https://landscape.cncf.io/selected=keycloak)
    
-* [**O que é CNFC - Cloud Native Computing Foundation?**](https://www.cncf.io/)  
-  
 * [**KeyCloak - GitHub**](https://github.com/keycloak/keycloak)   
   
 * [**KeyCloak - Primeiros passos**](https://www.keycloak.org/docs/latest/getting_started/index.html)  
     
 * [**KeyCloak - Login**](keycloak-login.md) 
-      
+
+ 
+ * [**KeyCloak no CNFC**](https://landscape.cncf.io/selected=keycloak)
+   
+* [**O que é CNFC - Cloud Native Computing Foundation?**](https://www.cncf.io/)  
+
+### Docker compose
+
 * [**Docker compose para o desafio 3**](../../informacao_procedural_alterado/docker/nosso-compose.md)
-    
-    * Talvez você pode estar se perguntando o que é docker-compose. [Este link pode ter ajudar a entender melhor a ferramenta](https://docs.docker.com/compose/) 
+
+* [**Docker compose - Documentação**](https://docs.docker.com/compose/) 
+
+
+### Licenças Open Source
+
+* [**Licenças Open Source**](https://opensource.org/licenses)        

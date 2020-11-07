@@ -46,4 +46,6 @@ Pronto!!! Você conseguiu realizar sua primeira iteração com Keycloak.. Parab�
 
 ## Informações de suporte
 
-* Talvez você pode estar se perguntando, qual a função sobre o docker-compose. [Aqui você pode encontrar](https://docs.docker.com/compose/)
+### Docker compose
+
+* [**Docker compose - Documentação**](https://docs.docker.com/compose/) 

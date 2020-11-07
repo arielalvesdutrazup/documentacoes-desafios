@@ -46,19 +46,16 @@ Bem simples como esses passos já configuramos nossa aplicação para ser um Res
 O nosso próximo passo é fazer com que o Spring Boot autorize nossas requisições de acordo com o token recebido e com 
 base em seus dados permitir o processamento da requisição ou bloquear a mesma.
 
-Se você acha que está pronto. Que tal partir para resolver esse próximo passo. [Aqui você encontra como
-realizar essa configuração no Spring Security](oauth-spring-security-auth.md)
+Se você acha que está pronto. [Que tal partir para resolver esse próximo passo.](oauth-spring-security-auth.md)
 
 # Informação de Suporte
 
-* Talvez sua primeira dúvida pode ter sido mas afinal de contas _"o que é um realm?"_ Não se preocupe
-com isso, [este link vai te ajudar com isso](https://www.keycloak.org/docs/latest/server_admin/#core-concepts-and-terms)
+* [KeyClock - Principais conceitos](https://www.keycloak.org/docs/latest/server_admin/#core-concepts-and-terms)
 
-  * Ainda pode estar se perguntando "Como eu posso criar um realm no keycloak?". [Este link tem um passo-a-passo
-  de como fazer isso!!](keycloak-realm.md)
+* [KeyClock - Zup Academy - Como criar um Realm](../keycloak/keycloak-realm.md)
   
-* Caso você nunca tenha ouvido a palavra JWT, não tem problema [aqui tem uma boa introdução sobre o tema!](https://jwt.io/introduction/)  
+* [JWT - Introdução](https://jwt.io/introduction/)  
 
-  * Se você quer visitar a RFC e entrar em profundidade sobre o JWT, [este link vai te ajudar a navegar na RFC](https://tools.ietf.org/html/rfc7519) 
+* [RFC 7519 - JSON Web Token (JWT)](https://tools.ietf.org/html/rfc7519) 
    
-* Se em algum momento você se perguntou "Onde está a documentação oficial do Spring sobre Resource Server?". [Este link vai te ajudar a se aprofundar](https://docs.spring.io/spring-security/site/docs/current/reference/html5/#oauth2resourceserver)  
+* [Spring Boot - OAuth2 Resource Server](https://docs.spring.io/spring-security/site/docs/current/reference/html5/#oauth2resourceserver)  

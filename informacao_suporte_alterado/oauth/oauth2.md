@@ -25,11 +25,7 @@ e provedor de autenticação.
 ## Entendendo as entidades do OAuth2
 
 Talvez você possa estar se perguntando, se envolve delegação então provavelmente tem mais de um sistema envolvido
-nesse mecanismo. Exatamente o fluxo OAuth2 é composto por 4 entidades principais [aqui você pode encontrar uma referência
-oficial](https://tools.ietf.org/html/rfc6749#section-1.1) 
-
- * Talvez alguns elementos do OAuth2 não tenha ficado perfeitamente claro, [aqui nós tentamos achar uma maneira mais
- simplificada de explicar as 4 entidades principais](../informacao_procedural/oauth2_entidades.md)
+nesse mecanismo. Exatamente o fluxo OAuth2 é composto por 4 entidades principais [na RFC 6749](https://tools.ietf.org/html/rfc6749#section-1.1) 
 
 ## IAM (Identity and Access Management)
 
@@ -46,5 +42,4 @@ de atenção sempre utilize software de acordo com a regulamentação da licensa
 
 ## Informações de suporte
  
-* Se você está curioso em saber como funciona o método Basic de Autenticação HTTP, [nesse link você pode
-encontrar aqui](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)
+* [Mais informação sobre Autenticação HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)

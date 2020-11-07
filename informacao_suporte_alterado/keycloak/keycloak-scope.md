@@ -119,4 +119,4 @@ curl --location --request POST 'http://localhost:8080/v1/proposals' \
 
 ## Informações de suporte
 
-* Talvez você pode estar se perguntando, qual a função sobre o docker-compose. [Aqui você pode encontrar](https://docs.docker.com/compose/)
+* [Docker Compose - Documentação](https://docs.docker.com/compose/)
