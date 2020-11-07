@@ -37,8 +37,8 @@ e o authorization server, mas não se preocupe vamos cobrir todos os detalhes.
     
 * [**Link para consultar os metadados do Authentication Server**](http://localhost:18080/auth/realms/nosso-cartao/.well-known/openid-configuration)
       
-* [**RFC 8615 - Wll-Known Uniform Resource Identifiers (URIs)**](https://tools.ietf.org/html/rfc8615)
+* [**RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)**](https://tools.ietf.org/html/rfc8615)
 
-* [**Rascunho - OAuth v2 - 1.1. Roles. Resource Owner, Client, Resource Server e Authorization Server**](https://tools.ietf.org/html/draft-ietf-oauth-v2-16#section-1.1)
+* [**Rascunho IETF - OAuth v2 - 1.1. Roles. Resource Owner, Client, Resource Server e Authorization Server**](https://tools.ietf.org/html/draft-ietf-oauth-v2-16#section-1.1)
   
 * [**Zup Academy - Papel do Resource Owner**](oauth2_resource_owner.md)

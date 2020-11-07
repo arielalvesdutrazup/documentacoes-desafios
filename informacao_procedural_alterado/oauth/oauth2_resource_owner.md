@@ -8,5 +8,4 @@ O **Resource Owner** é o dono das fotos que ele decidiu publicar no serviço.
 
 ## Informações de suporte
 
-* Você pode estar pensando, tem alguma documentação oficial que eu possa consultar. [Este link tem a definição de
-Resource Owner de acordo com a RFC](https://tools.ietf.org/html/rfc6749#section-1)
+* [**RFC 6749 - The OAuth 2.0 Authorization Framework. Mais informações sobre Resource Owner**](https://tools.ietf.org/html/rfc6749#section-1)
