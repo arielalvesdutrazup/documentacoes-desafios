@@ -47,7 +47,7 @@ Agora precisamos iniciar nossa aplicação e fazer algumas operações, como por
 Após fazer várias operações, entre no trace da operação que está o código e verifique se o **baggage item** consta, 
 conforme imagem abaixo:
 
-![alt text](../images/open-tracing-008.png "OpenTracing")
+![alt text](../../images/open-tracing-008.png "OpenTracing")
 
 No código acima, no segundo serviço a gente obteve o **baggage item** utilizando o método `getBaggageItem()`, 
 conforme código abaixo, e sobrescreveu o mesmo:

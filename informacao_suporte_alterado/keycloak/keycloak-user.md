@@ -36,16 +36,16 @@ Depois disso você deve certificar-se que você esteja no seu Realm previamente 
 No canto superior esquerdo você pode ver o Realm selecionado, na figura abaixo estamos no Nosso-cartao, no menu **Manage** seleciona a opção
 **Users** e então clique no botão **Add User**. Como na figura abaixo:
 
-![keycloak users](../images/keycloak/users.png "users keycloak")
+![keycloak users](../../images/keycloak/users.png "users keycloak")
 
 Depois você será redirecionado para uma página onde você deverá preencher informações do usuário, como na figura abaixo
 
-![keycloak new users](../images/keycloak/novo_usuario.png "novo usuario")
+![keycloak new users](../../images/keycloak/novo_usuario.png "novo usuario")
 
 No próximo passo você vai precisar informar a senha do usuário que estamos cadastrando, depois disso você vai clicar no botão
 **Set Password**
 
-![keycloak password](../images/keycloak/password_user.png "password")
+![keycloak password](../../images/keycloak/password_user.png "password")
 
 ## Informações de suporte
 

@@ -40,18 +40,18 @@ Depois disso você deve certificar-se que você esteja no seu Realm previamente 
 No canto superior esquerdo você pode ver o Realm selecionado, na figura abaixo estamos no Nosso-cartao, no menu **Configure** 
 seleciona a opção **Client Scopes** e então clique no botão **Create**. Como na figura abaixo:
 
-![image](../images/keycloak/keycloak-scope-001.jpg "Image")
+![image](../../images/keycloak/keycloak-scope-001.jpg "Image")
 
 Depois você será redirecionado para uma página onde você deverá preencher informações do escopo, como na figura abaixo
 
-![image](../images/keycloak/keycloak-scope-002.jpg "Image")
+![image](../../images/keycloak/keycloak-scope-002.jpg "Image")
 
 Eba! Você criou seu primeiro cliente! Vamos associar em nossa aplicação?
 
 Para associar o escopo criado em nossa aplicação, no menu **Configure**  seleciona a opção **Clients** e então clique 
 no botão **Edit** do cliente desejado. Como na figura abaixo:
 
-![image](../images/keycloak/keycloak-scope-003.jpg "Image")
+![image](../../images/keycloak/keycloak-scope-003.jpg "Image")
 
 Depois você será redirecionado para a página de modificação do seu cliente, clique na aba **Client Scopes**, nela terá 
 duas opções **Default Client Scopes** que são os escopos padrões que a aplicação irá ter e **Optional Client Scopes** que 
@@ -60,7 +60,7 @@ são os escopos opcionais que sua aplicação poderá prover!
 Encontre e selecione o escopo criado na seção **Default Client Scopes** e clique em **Add selected**, conforme imagem 
 abaixo:
 
-![image](../images/keycloak/keycloak-scope-004.jpg "Image")
+![image](../../images/keycloak/keycloak-scope-004.jpg "Image")
 
 Eba! Está tudo configurado! Para testar gera uma novo token e verifica se o escopo criado está contido no mesmo, conforme 
 exemplo abaixo:

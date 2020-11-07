@@ -13,7 +13,7 @@ que esse client_secret seja armazenado encriptado ou em ferramentas como Vault, 
 
 Isto é muito importante, proteja seu secret à qualquer custo!!
 
-![oauth 2 basics](../images/oauth2-flows-client.png "fluxo básico oauth2")
+![oauth 2 basics](../../images/oauth2-flows-client.png "fluxo básico oauth2")
 
 Note que no fluxo não encontramos o Resource Owner, porque ele não é envolvido neste processo,
 por este motivo este fluxo é recomendado para interação entre sistemas.

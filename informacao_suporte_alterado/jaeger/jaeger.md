@@ -125,12 +125,12 @@ Agora precisamos iniciar nossa aplicação e fazer algumas operações, como por
 
 Após fazer vários operações o nome do serviço deve aparecer no Jaeger, conforme imagem abaixo:
 
-![alt text](../images/open-tracing-004.png "OpenTracing")
+![alt text](../../images/open-tracing-004.png "OpenTracing")
 
 Selecione o nome do serviço e clique em `Find Traces`, logo após irá listar os traces do lado direito, conforme imagem 
 abaixo:
 
-![alt text](../images/open-tracing-005.png "OpenTracing")
+![alt text](../../images/open-tracing-005.png "OpenTracing")
 
 Demais né!?
 

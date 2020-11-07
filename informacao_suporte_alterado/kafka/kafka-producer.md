@@ -25,7 +25,7 @@ Calma! Vamos aprender sobre o ciclo de vida do mesmo?
 
 Sabia que é possível configura retry para que não percamos mensagens?
 
-![alt text](../images/kafka-009.png "Apache Kafka")
+![alt text](../../images/kafka-009.png "Apache Kafka")
 
 Demais né!
 

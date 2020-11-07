@@ -38,7 +38,7 @@ para monitoramento.
 
 Você deve ser apresentado à seguinte tela
 
-![home prometheus](../images/prometheus.png "home prometheus")
+![home prometheus](../../images/prometheus.png "home prometheus")
 
 Temos alguns menus na barra que são muito importante para checarmos as configurações do prometheus, as configurações relacionados ao 
 sistema estão no menu **Status**, uma parte importante legal é que o prometheus também conta com um sistema de alertas que pode ser instalado
@@ -70,7 +70,7 @@ Então esta tela nos ajuda muito, vale a pena lembrar dela....algum momento ela 
 
 Vamos dar uma olhada nela.
 
-![home targets](../images/prometheus_targets.png "home targets")
+![home targets](../../images/prometheus_targets.png "home targets")
 
 Olha que legal, com um simples olhar já podemos perceber que nosso sistema de contas está com problema, olhe o campo State está marcado
 como **DOWN**, neste caso precisaríamos dar uma olhada nele.
@@ -88,7 +88,7 @@ Olha que massa hein!
 
 Vamos dar uma olhada na tela
    
-![home service discovery](../images/prometheus_service_discovery.png "home service discovery")
+![home service discovery](../../images/prometheus_service_discovery.png "home service discovery")
 
 Olha que legal, o prometheus é capaz de agrupar nossos targets por "nomes" e ainda mais consegue contá-los isso é muito útil quando contamos com algumas 
 instâncias de um mesmo serviço! Também é possível saber como eles foram descobertos, note que ele consegue mostrar as labels descobertas e as
@@ -107,7 +107,7 @@ Nome da métricas:
 
 Veja abaixo
 
-![home metrics](../images/sample_prometheus.png "metrics sample")
+![home metrics](../../images/sample_prometheus.png "metrics sample")
 
 Olha que legal, parece que nossas métricas estão sendo armazenadas corretamente. Sucesso!
 

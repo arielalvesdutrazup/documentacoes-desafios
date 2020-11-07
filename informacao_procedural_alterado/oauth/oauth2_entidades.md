@@ -10,7 +10,7 @@ De uma maneira bastante simplificada as entidades principais interagem da seguin
 relevante é que o oauth permite alguns modelos de autenticação com mais ou menos interações entre o cliente
 e o authorization server, mas não se preocupe vamos cobrir todos os detalhes.
 
-![oauth 2 basics](../images/oauth2.png "fluxo básico oauth2")
+![oauth 2 basics](../../images/oauth2.png "fluxo básico oauth2")
 
 ## Informações de suporte
 

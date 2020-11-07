@@ -5,12 +5,12 @@ representar um stream de evento, como por exemplo, um tópico de transações!
 
 O tópico é consistido por várias partições, de acordo com o configurado, como por exemplo, na imagem abaixo:
 
-![alt text](../images/kafka-002.png "Apache Kafka")
+![alt text](../../images/kafka-002.png "Apache Kafka")
 
 A partição é uma maneira de prover redundância e escalabilidade, pois, cada partição pode estar em um broker (máquina) 
 diferente, conforme imagem abaixo:
 
-![alt text](../images/kafka-001.png "Apache Kafka")
+![alt text](../../images/kafka-001.png "Apache Kafka")
 
 Demais né!?
 
@@ -20,7 +20,7 @@ Quando enviamos um evento sem chave, o tópico seleciona aleatoriamente a parti�
 com uma chave, todos os eventos com a mesma chave irá somente para aquela partição e de forma **ordenada**, conforme imagem 
 abaixo:
 
-![alt text](../images/kafka-003.png "Apache Kafka")
+![alt text](../../images/kafka-003.png "Apache Kafka")
 
 Na imagem acima, imagina que temos um sistema de rastreamento de caminhões e gostaríamos de saber **cronologicamente** as 
 posições dos mesmos!?
@@ -44,7 +44,7 @@ Imagina se a gente não envia-se o identificador com chave? Ficaria algo aleató
 
 Para que isso seja possível, a partição trabalha de forma independente, conforme imagem abaixo:
 
-![alt text](../images/kafka-004.png "Apache Kafka")
+![alt text](../../images/kafka-004.png "Apache Kafka")
 
 Como a partição trabalha de forma independente, a mensagem que está na posição 0 na partição 1 não é a mesma mensagem 
 na posição 0 na partição 2 e assim sucessivamente!

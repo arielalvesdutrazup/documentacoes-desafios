@@ -9,7 +9,7 @@ no nosso IAM precisamos informar um URL para que o Authorization Server faça os
 Logo nesse fluxo só precisamos de **client_id** na parte da aplicação cliente.
 
 
-![oauth 2 auth_code](../images/oauth2-flows-auth_code.png "fluxo auth_code oauth2")
+![oauth 2 auth_code](../../images/oauth2-flows-auth_code.png "fluxo auth_code oauth2")
 
 * **1** - A aplicação cliente inicia o processo de autenticação redirecionando o usuário para 
           o Authorization Server, esse processo acontece via Browser ou aplicação mobile  

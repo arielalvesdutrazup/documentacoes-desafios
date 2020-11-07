@@ -9,7 +9,7 @@ gerados!
 A cada processamento o consumidor tem a responsabilidade de gravar em qual ponto ele parou de ler e em qual partição, 
 como por exemplo, na imagem abaixo:
 
-![alt text](../images/kafka-005.png "Apache Kafka")
+![alt text](../../images/kafka-005.png "Apache Kafka")
 
 Na imagem acima, sabemos que o consumidor consumiu os eventos:
 
@@ -48,22 +48,22 @@ meu tópico foi configurado para ter 3 partições e tenho somente um consumidor
 
 Esse consumidor irá processar o evento de todas as partições, conforme imagem abaixo:
 
-![alt text](../images/kafka-005.png "Apache Kafka")
+![alt text](../../images/kafka-005.png "Apache Kafka")
 
 Agora, imagina com dois consumidores do mesmo grupo, ou seja, a carga será balanceada, agora um consumidor irá 
 processar de uma partição e o outro das outras duas partições, conforme imagem abaixo:
 
-![alt text](../images/kafka-006.png "Apache Kafka")
+![alt text](../../images/kafka-006.png "Apache Kafka")
 
 Demais né! Agora imagina com três consumidores do mesmo grupo, ou seja, a carga será balanceada e será uma partição por
 consumidor, conforme imagem abaixo:
 
-![alt text](../images/kafka-007.png "Apache Kafka")
+![alt text](../../images/kafka-007.png "Apache Kafka")
 
 Talvez esteja pensando e se tiver quatro consumidores do mesmo grupo? O quarto irá ficar sem atividade, ou seja, ocioso,
 conforme imagem abaixo:
 
-![alt text](../images/kafka-008.png "Apache Kafka")
+![alt text](../../images/kafka-008.png "Apache Kafka")
 
 Demais né! Agora podemos ter vários grupos que representam vários serviços, como por exemplo, um grupo de análise de fraude, 
 extrato, fatura, etc.

@@ -54,12 +54,12 @@ Agora precisamos iniciar nossa aplicação e fazer algumas operações, como por
 Após fazer várias operações, entre no trace da operação que está o código e verifique se a **tag** consta, conforme imagem 
 abaixo:
 
-![alt text](../images/open-tracing-006.png "OpenTracing")
+![alt text](../../images/open-tracing-006.png "OpenTracing")
 
 Demais né! Agora podemos utilizar várias **tags** para melhorar nosso processo de troubleshooting, como por exemplo, filtrar 
 por todas as operações que o `luram.archanjo@zup.com.br` fez, conforme imagem abaixo:
 
-![alt text](../images/open-tracing-007.png "OpenTracing")
+![alt text](../../images/open-tracing-007.png "OpenTracing")
 
 ## Dicas de Luram Archanjo
 

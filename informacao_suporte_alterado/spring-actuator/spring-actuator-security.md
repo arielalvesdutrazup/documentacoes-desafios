@@ -11,12 +11,12 @@ acesso de qualquer lugar!
 Um Hacker, pode por exemplo obter todas as versões das dependências utilizadas no seu projeto e 
 explorar falhas, como por exemplo na imagem abaixo:
 
-![alt text](../images/spring-008.png "Spring Boot Actuator")
+![alt text](../../images/spring-008.png "Spring Boot Actuator")
 
 O Hacker sabe que estou utilizando Spring Boot 2.3.0 e com uma simples pesquisa no google pode encontrar falhas 
 relacionadas a esta versão, como por exemplo na imagem abaixo:
 
-![alt text](../images/spring-009.png "Spring Boot Actuator")
+![alt text](../../images/spring-009.png "Spring Boot Actuator")
 
 Este tópico é bastante importante para todos os projetos da Zup, portanto vamos falar de segurança?
 

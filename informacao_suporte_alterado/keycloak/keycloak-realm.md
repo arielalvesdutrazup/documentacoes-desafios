@@ -11,13 +11,13 @@ você só consegue gerenciar usuários que o próprio Realm controla.
 
 Vamos lá. Depois de você logar no Keycloak devemos utilizar a opção "Add Realm". Como mostra a figura abaixo
 
-![add realm](../images/keycloak/add-realm.png "criação do realm")
+![add realm](../../images/keycloak/add-realm.png "criação do realm")
 
 
 Você será redirecionado para a página de inclusão de Realm o procedimento é bastante simples, precisamos
 somente configurar um nome.
 
-![realm name](../images/keycloak/realm-name.png "configurar nome do realm")
+![realm name](../../images/keycloak/realm-name.png "configurar nome do realm")
 
 Preenchido o nome podemos clicar em **Create**
 

@@ -14,7 +14,7 @@ Então vamos ao menu de configuração de Data Sources, menu localizado no canto
 
 Se você não encontrou, sem problemas a imagem abaixo pode te ajudar!!!
 
-![comecando configurar datastore](../images/comecar_configurar_datastore_grafana.png " comecando configurar datastore")
+![comecando configurar datastore](../../images/comecar_configurar_datastore_grafana.png " comecando configurar datastore")
 
 Nesta tela temos um botão azul, em que podemos iniciar o procedimento de configurar nosso Datasource, então
 não vamos perder tempo e ir clicar ele!
@@ -24,7 +24,7 @@ Datasource que queremos configurar, no nosso caso vamos escolher configurar um P
 
 Vamos dar uma olhadinha nesta tela:
 
-![ds prometheus](../images/escolhendo_tipo_ds_grafana.png " ds prometheus")
+![ds prometheus](../../images/escolhendo_tipo_ds_grafana.png " ds prometheus")
 
 Estamos indo bem!
 
@@ -45,7 +45,7 @@ Então vamos configurar nosso **Prometheus**!
 
 Como podemos observar na tela abaixo colocamos o endereço **http://localhost:9090** na configuração, mas porque este endereço?
 
-![config prometheus](../images/endereco_prometheus.png " config prometheus")
+![config prometheus](../../images/endereco_prometheus.png " config prometheus")
 
 Depois de inserir as informações podemos testar nossas configurações, então clique em **Save & Test**. Se tudo ocorreu
 bem você deve ter recebido a seguinte mensagem "Datasource is working", isso indica sucesso!

@@ -42,7 +42,7 @@ loja, demais né!?
 
 Se ainda está confuso, não se preocupe, uma imagem vale mais que mil palavras!
 
-![alt text](../images/synchronous-vs-asynchronous-001.png "Synchronous vs Asynchronous")
+![alt text](../../images/synchronous-vs-asynchronous-001.png "Synchronous vs Asynchronous")
 
 Ainda está confuso, o que acha de um exemplo do mundo real?
 
@@ -57,7 +57,7 @@ No processo assíncrono, você pede uma pizza por telefone, volta a jogar e some
 
 Demais né!?
 
-![alt text](../images/synchronous-vs-asynchronous-002.png "Synchronous vs Asynchronous")
+![alt text](../../images/synchronous-vs-asynchronous-002.png "Synchronous vs Asynchronous")
 
 Voltando para nosso Bootcamp, quando falamos de `segundo plano`, estamos falando de processar assíncronamente e 
 existem várias formas de processar em `segundo plano', como por exemplo:

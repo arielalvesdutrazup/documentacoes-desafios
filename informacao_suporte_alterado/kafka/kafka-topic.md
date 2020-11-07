@@ -14,7 +14,7 @@ Demais né!?
 O Tópico no Apache Kafka tem uma característica bastante importante, a partição, no qual permite ser distribuído 
 em vários brokers do Kafka via `Replication Factor`, conforme imagem abaixo:
 
-![alt text](../images/kafka-001.png "Apache Kafka")
+![alt text](../../images/kafka-001.png "Apache Kafka")
 
 Quer saber mais sobre partição? [Aqui tem uma explicação do que entendemos que você deve considerar!!](../informacao_suporte/kafka-partition.md)
 

@@ -21,7 +21,7 @@ de logs open source (Logstash, Fluentd, Fluent bit) estão disponíveis para est
 
 Ficou confuso, não se preocupe! Essa imagem pode te ajudar a visualizar melhor!
 
-![load grafana](../images/twelve-factor-app-logs.png "Agregador de logs")
+![load grafana](../../images/twelve-factor-app-logs.png "Agregador de logs")
 
 Demais né! Como o fato de logar no **stdout** e utilizar um agregador de log pode ajudar muito em troubleshooting!
 
