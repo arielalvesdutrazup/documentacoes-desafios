@@ -20,8 +20,6 @@ por este motivo este fluxo é recomendado para interação entre sistemas.
 
 ## Informações de Suporte  
 
-* Em algum momento você pode ter pensado em entender os detalhes da requisição de um token
- usando _client_credentials_. [Aqui você pode encontrar esse conteúdo](https://www.oauth.com/oauth2-servers/access-tokens/client-credentials/)
+* [**Client Credentials**](https://www.oauth.com/oauth2-servers/access-tokens/client-credentials/)
 
-* Ou talvez você possa ter ficado com alguma dúvida específica sobre o fluxo. Neste caso recomendamos que [você consulte a RFC](https://tools.ietf.org/html/rfc6749#section-1.3.4), nela você pode 
-encontrar todos os detalhes
+* [**RFC 6749 - 1.3.4. Client Credentials**](https://tools.ietf.org/html/rfc6749#section-1.3.4)
