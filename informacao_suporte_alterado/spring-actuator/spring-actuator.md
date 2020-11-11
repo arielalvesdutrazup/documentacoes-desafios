@@ -51,8 +51,8 @@ Não negligencie as informações que você está expondo sobre a sua infraestru
 
 # Informação de Suporte
 
-Talvez esteja pensando sobre segurança no Spring Boot Actuator? [Aqui tem uma explicação do que entendemos que você deve considerar!](../informacao_suporte/spring-actuator-security.md)
+[Zup Academy - Spring Actuator e Segurança](spring-actuator-security.md)
 
-Quer saber mais sobre Spring Boot Actuator? Acesse o [link!](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html#production-ready-enabling)
+[Spring Actuator](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-features.html#production-ready-enabling)
 
-Quer saber mais sobre o The Twelve-Factor App? Acesse o [link!](https://12factor.net/pt_br/)
+[12 Factors App](https://12factor.net/pt_br/)

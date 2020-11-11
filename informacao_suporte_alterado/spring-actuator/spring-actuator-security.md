@@ -20,7 +20,7 @@ relacionadas a esta versão, como por exemplo na imagem abaixo:
 
 Este tópico é bastante importante para todos os projetos da Zup, portanto vamos falar de segurança?
 
-* Gostaria de saber mais sobre segurança? [Aqui tem uma explicação do que entendemos que você deve considerar](../informacao_procedural/seguranca_cloud_native.md)
+* [Zup Academy - Seguança Cloud Native](../informacao_procedural/seguranca_cloud_native.md)
 
 ## Utilizando somente o necessário!
 

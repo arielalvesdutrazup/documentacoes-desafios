@@ -55,16 +55,14 @@ para ambientes produtivos.
 
 ## Informações de suporte
 
-- Afinal o que são varíaveis de ambiente. [Aqui você pode encontrar uma ba definição](https://opensource.com/article/19/8/what-are-environment-variables)
+- [O que são variáveis de ambiente?](https://opensource.com/article/19/8/what-are-environment-variables)
 
-- O Pilar III do manifesto indica a prática de configuração da aplicação. [Você pode encontrá-lo aqui](https://12factor.net/pt_br/config)
+- [12 Factos App - Pilar 3 - Configurações](https://12factor.net/pt_br/config)
 
-- Quer entender todos os outros pilares do 12 Factor Apps. [Aqui você encontra!!!](https://12factor.net/pt_br/)
+- [12 Factors App](https://12factor.net/pt_br/)
 
-- Minha aplicação é instalada no kubernetes. [Aqui você encontra uma explicação básica sobre isso](https://kubernetes.io/docs/tasks/inject-data-application/define-environment-variable-container/)
+- [Kubernetes - Definir variaveis de ambiente para um container](https://kubernetes.io/docs/tasks/inject-data-application/define-environment-variable-container/)
 
-- Mas se você já tem um conhecimento prévio de kubernetes e quer ver como usamos varíaveis de ambiente de uma maneira mais 
-eficiente. [Esse link te dará uma grande ajuda!!!](https://kubernetes.io/docs/concepts/configuration/secret/#using-secrets-as-environment-variables)  
+- [Kubernetes - Secrets e variáveis de ambiente](https://kubernetes.io/docs/concepts/configuration/secret/#using-secrets-as-environment-variables)  
 
-- Minha varíavel de ambiente é segura, eu não posso armazená-la aberta, tem como resolver isso no Kubernetes.
- [Esse link vai mostrar como podemos fazer isso de maneira eficaz](https://kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/#define-container-environment-variables-using-secret-data)
+- [Kubernetes - Definindo um container de variaveis de ambiente](https://kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/#define-container-environment-variables-using-secret-data)
