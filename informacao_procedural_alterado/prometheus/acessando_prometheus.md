@@ -115,29 +115,29 @@ Quer dizer mais ou menos sucesso, na verdade colocamos métricas mas parece que 
 Não consigo criar agregações e "juntar" métricas, e é por isso que outra ferramenta aparece em cena. O **Grafana** é uma ferramenta feita
 para renderizar gráficos e adivinha ele tem uma fortíssima integração com o prometheus...
 
-Opaaa.....quer ver como isso funciona dê uma olhada no [grafana neste link](../informacao_procedural/acessando_grafana.md)
+[Zup Academy - Grafana](../informacao_procedural_alterado/../grafana/acessando_grafana.md)
 
 ## Informações de suporte
 
-* Quer saber mais sobre Prometheus? Acesse o [link!](https://prometheus.io/)
+* [Prometheus - Site](https://prometheus.io/)
 
-* Se você quer consultar um guia para entender os principais elementos da ferramenta, [esse link pode te ajudar com esta tarefa](https://prometheus.io/docs/prometheus/latest/getting_started/)
+* [Prometheus - Iniciando](https://prometheus.io/docs/prometheus/latest/getting_started/)
 
-* Talvez você possa ter achado essa documentação um pouco complexa, se você achou isso [esse outro conteúdo pode te ajudar
-    com uma visão um pouco mais simplificada](prometheus.md)
+* [Prometheus - Nomenclaturas](https://prometheus.io/docs/practices/naming/)
 
-* Você pode estar se perguntando "O que é um volume no docker?". [Esse link pode te ajudar em descobrir isso](https://docs.docker.com/storage/volumes/)
+* [Prometheus - Mais informações sobre configuração](https://prometheus.io/docs/prometheus/latest/configuration/configuration/)
 
-* Se por algum motivo, você se questionou sobre o mapeamento de portas no docker [esse link pode te ajudar em entender isso em detalhes](https://docs.docker.com/config/containers/container-networking/)
+* [Zup Academy - Prometheus](prometheus.md)
 
-* Se por acaso você se perguntou "Mas pera ae se nomenclatura de métricas pode ser um problema, será que existe uma padrão para isso?. [Neste link você vai encontrar um pouco disso](https://prometheus.io/docs/practices/naming/)
+* [Docker - Volumes](https://docs.docker.com/storage/volumes/)
 
-* Talvez você possa estar interessado em explorar mais as configurações do prometheus. A documentação é o melhor caminho pra isso, [aqui você pode encontrá-la](https://prometheus.io/docs/prometheus/latest/configuration/configuration/)
+* [Docker - Redes de container](https://docs.docker.com/config/containers/container-networking/)
 
-* Se você nunca ouviu falar de Service Discovery, [esse link pode te ajudar com isso](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
-  
-  * Ou ainda se você ficou interessado quando ouviu kubernetes e Service Discovery, o Kubernetes suporta a implementação via Service. [Aqui tem alguns detalhes](https://kubernetes.io/docs/concepts/services-networking/service/#cloud-native-service-discovery)
-  
-  * Mas se você tem dúvidas sobre o que é um Service no Kubernetes, [aqui você pode encontrar a resposta para isso](https://kubernetes.io/docs/concepts/services-networking/service/)
-  
-  * Consul, eu pensei que era eletrodoméstico? Será? [Esse link pode te ajudar a descobrir isso](https://www.consul.io/use-cases/service-discovery-and-health-checking)
+
+* [Service Discovery em uma arquitetura de microserviços](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
+
+* [Service Discovery e Kubernetes ](https://kubernetes.io/docs/concepts/services-networking/service/#cloud-native-service-discovery)
+
+* [O que é um serviço em Kubernates](https://kubernetes.io/docs/concepts/services-networking/service/)
+
+* [Consul é eletrodoméstico?](https://www.consul.io/use-cases/service-discovery-and-health-checking)

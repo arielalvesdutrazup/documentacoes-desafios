@@ -42,8 +42,7 @@ opentracing.jaeger.http-sender.url=${JAEGER_ENDPOINT:http://localhost:14268/api/
 opentracing.jaeger.probabilistic-sampler.sampling-rate=${JAEGER_SAMPLER:1}
 ```
 
-Está tudo configurado, agora o spring faz sua mágica, pois ele tem inúmeras configurações automáticas para vários módulos, 
-como por exemplo:
+Está tudo configurado, agora o spring faz sua mágica, pois ele tem inúmeras configurações automáticas para vários módulos, como por exemplo:
 
 - Spring Web (RestControllers, RestTemplates, WebAsyncTask, WebClient, WebFlux)
 - @Async, @Scheduled, Executors
@@ -112,9 +111,7 @@ public class FeignTracingAutoConfiguration {
 
 Perceba que tem o uso da annotation ```ConditionalOnProperty``` para verificar se a implementação de open tracing está habilitada para o Feign. Caso não exista nenhuma configuração explícita, o trace é habilitado por default por conta do argumento ```matchIfMissing = true``` presente na annotation.
 
-O sentimento de "mágica" do Spring se deve a condição, se existe ou não uma determinada classe, pacote, etc. Por este 
-motivo em sua grande maioria basta adicionar uma dependência no `pom.xml` que a "mágica" acontece! Na verdade alguma 
-classe contida na dependência, habilita certas configurações, funcionalidades, comportamentos, etc.
+O sentimento de "mágica" do Spring se deve a condição, se existe ou não uma determinada classe, pacote, etc. Por este motivo em sua grande maioria basta adicionar uma dependência no `pom.xml` que a "mágica" acontece! Na verdade alguma classe contida na dependência, habilita certas configurações, funcionalidades, comportamentos, etc.
 
 Demais né! Vamos testar?
 

@@ -2,8 +2,6 @@
 
 Para configurar sua aplicação no Prometheus, primeiro precisamos entender o que é **Target**!
 
-> Está em dúvida sobre o que é Target no Prometheus? Não se preocupe! Escrevemos um [material específico para você!](../informacao_procedural/acessando_prometheus.md)
-
 Eba! Agora que sabemos o que é Prometheus e Target! Vamos colocar configurar nossa aplicação?
 
 Imagino que esteja utilizando nosso [docker-compose](../ops/docker-compose.yaml), primeiro precisamos parar o container 
@@ -82,6 +80,6 @@ Após iniciar o Prometheus vá no aba de [Targets](http://localhost:9090/targets
 
 ## Informações de suporte
 
-Gostaria de saber mais sobre Prometheus? Acesse o [link!](../informacao_procedural/prometheus.md)
+Gostaria de saber mais sobre Prometheus? Acesse o [link!](../informacao_procedural_alterado/pr.md)
 
-Gostaria de saber mais sobre o arquivo `prometheus.yml`? Acesse o [link!](https://prometheus.io/docs/prometheus/latest/configuration/configuration/#configuration-file)
+[Prometheus - Mais sobre o arquivo `configuration.yaml`](https://prometheus.io/docs/prometheus/latest/configuration/configuration/#configuration-file)
