@@ -27,9 +27,9 @@ FROM openjdk:11
 COPY --from=builder /usr/src/app/target/docker-hands-on-0.0.1-SNAPSHOT.jar /usr/app/app.jar
 EXPOSE 8080
 ENTRYPOINT ["java","-jar","/usr/app/app.jar"]
-
+cd
 ```
-
+  
 Opa, temos dois comandos FROM???
 
 Perceba, que temos dois estágios na nossa build, podemos notar que no primeiro estágio utilizamos o maven como base. O maven é utilizado

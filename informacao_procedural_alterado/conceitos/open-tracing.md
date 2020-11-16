@@ -102,9 +102,9 @@ usuário X.
 
 ## Informações de suporte
 
-Gostaria de saber mais sobre a especificação? [Aqui tem uma explicação do que entendemos que você deve considerar!](https://opentracing.io/specification/)
+[OpenTracing - Especificação](https://opentracing.io/specification/)
 
-Gostaria de saber mais sobre Tags? [Aqui tem uma explicação do que entendemos que você deve considerar!](../informacao_suporte/jaeger-concept-tags.md)
+Gostaria de saber mais sobre Tags? [Aqui tem uma explicação do que entendemos que você deve considerar!](../../informacao_suporte_alterado/jaeger/jaeger-concept-tags.md)
 
 Gostaria de saber mais sobre Baggage? [Aqui tem uma explicação do que entendemos que você deve considerar!](../informacao_suporte/jaeger-concept-baggage.md)
 

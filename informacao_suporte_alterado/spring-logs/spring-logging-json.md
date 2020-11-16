@@ -51,7 +51,6 @@ Agora que adicionamos as propriedades, precisamos adicionar um gerenciador de de
 </dependencyManagement>
 ```
 
-Gostaria de saber mais sobre Dependency Management no Maven? [Aqui tem uma explicação do que entendemos que você deve considerar!](https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html)
 
 Agora que está tudo configurado (Propriedades e Dependency Management), precisamos adicionar a seguinte dependência:
 

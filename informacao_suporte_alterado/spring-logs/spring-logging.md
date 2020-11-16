@@ -95,8 +95,3 @@ E o mais importante! Sabemos que tem um furo de validação, pois não existe sa
 Eba! Está tudo funcionando! Você sabia, se logar utilizando o formato JSON o log pode ser indexado e melhora muito o 
 troubleshooting de problemas? Quer saber mais? Acesse o [link!](../informacao_suporte/spring-logging-json.md)
 
-# Informação de Suporte
-
-Quer saber mais sobre logs? acesse o [link!](https://docs.spring.io/spring-boot/docs/current/reference/html/spring-boot-features.html#boot-features-logging)
-
-Quer saber mais sobre The Twelve-Factor App? Acesse o [link!](https://12factor.net/pt_br/)
