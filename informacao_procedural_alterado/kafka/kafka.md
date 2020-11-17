@@ -53,10 +53,10 @@ Demais né!?
 Apache Kafka é muito utilizado pela **Zup** e outras empresas, portanto, aproveita para se aprofundar nesse assunto, como 
 por exemplo?
 
-- Por que ele é tão performático? Dê uma olhada no modelo [pull model](https://kafka.apache.org/documentation/#design_pull)
-- Quais são seus casos de uso? Dê uma olhada no [link!](https://kafka.apache.org/uses)
-- Como ele foi desenhado, quais são suas motivações? Dê uma olhada no [link!](https://kafka.apache.org/documentation/#design)
+- [Kafka - Design Pull](https://kafka.apache.org/documentation/#design_pull)
+- [Kafka - Uso](https://kafka.apache.org/uses)
+- [Kafka - DEsign](https://kafka.apache.org/documentation/#design)
 
 ## Informações de suporte
 
-Quer saber mais sobre Apache Kafka? Acesse o [link!](https://kafka.apache.org/)
+[Kafka - Siste](https://kafka.apache.org/)

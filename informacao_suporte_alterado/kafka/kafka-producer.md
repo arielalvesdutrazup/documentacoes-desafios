@@ -53,12 +53,10 @@ Impacta demais no negócio, portanto, leva-se sempre em consideração os seguin
 - Quantidade de retry
 - Idempotência
 
-Quer saber mais sobre os modelos de entrega no Apache Kafka, acesse o [link!](https://kafka.apache.org/documentation/#semantics)
-
 ## Informações de suporte
 
-Quer saber mais sobre o Apache Kafka? Acesse o [link!](https://kafka.apache.org)
+[Kafka - Site](https://kafka.apache.org)
 
-Quer saber mais sobre os modelos de entrega no Apache Kafka, acesse o [link!](https://kafka.apache.org/documentation/#semantics)
+[Kafka - Semântica de entrega de mensagens](https://kafka.apache.org/documentation/#semantics)
 
-Quer saber mais sobre Produtor? Acesse o [link!](https://kafka.apache.org/documentation/#theproducer)
+[Kakfa - Produtor](https://kafka.apache.org/documentation/#theproducer)

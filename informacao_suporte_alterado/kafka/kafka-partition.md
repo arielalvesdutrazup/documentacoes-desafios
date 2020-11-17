@@ -52,7 +52,7 @@ na posição 0 na partição 2 e assim sucessivamente!
 Demais né! Com essa segmentação é possível escalar nossos consumidores e os mesmos pedirem para obter as mensagens da 
 posição 4 em diante, por exemplo!
 
-Quer saber mais sobre consumidores? [Aqui tem uma explicação do que entendemos que você deve considerar!!](../informacao_suporte/kafka-consumer.md)
+[Zup Academy - Kafka - Consumer](../kafka/kafka-consumer.md)
 
 ## Dicas de Luram Archanjo
 
@@ -62,13 +62,3 @@ como por exemplo:
 - Eventos ordenados
 - Eventos não ordenados
 - Recuperar eventos retrospectivamente
-
-## Informações de suporte
-
-Quer saber mais sobre o Apache Kafka? Acesse o [link!](https://kafka.apache.org)
-
-Quer saber mais sobre Partição? Acesse o [link!](https://kafka.apache.org/)
-
-Quer saber mais sobre Persistência? Acesse o [link!](https://kafka.apache.org/documentation/#persistence)
-
-Quer saber mais sobre Replicação? Acesse o [link!](https://kafka.apache.org/documentation/#replication)

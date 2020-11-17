@@ -156,7 +156,7 @@ Primeiro a gente precisou configurar a anotação `KafkaListener` no qual é nec
 coletar os eventos, como por exemplo, `${spring.kafka.topic.transactions}`!
 
 O interessante que a gente utilizou o fator III. Configurações, na qual diz que você deve armazenar as configurações no 
-ambiente, do `The Twelve-Factor App`, quer saber mais? [Aqui tem uma explicação do que entendemos que você deve considerar!](../informacao_procedural/twelve-factor-config.md)
+ambiente, do `The Twelve-Factor App`.
 
 Segundo a gente precisou adicionar qual evento a gente iria receber e para isso basta passar como parâmetro toda "mágica" 
 de como tratar o evento foi definido na classe `KafkaConfiguration`!
@@ -165,8 +165,4 @@ Demais né!? Agora sabemos como consumir eventos no kafka!
 
 ## Informações de suporte
 
-Quer saber mais sobre o Apache Kafka? Acesse o [link!](https://kafka.apache.org)
-
-Quer saber mais sobre os modelos de entrega no Apache Kafka, acesse o [link!](https://kafka.apache.org/documentation/#semantics)
-
-Quer saber mais sobre Consumidor? Acesse o [link!](https://kafka.apache.org/documentation/#theconsumer)
+[Kakfa - Site](https://kafka.apache.org)
