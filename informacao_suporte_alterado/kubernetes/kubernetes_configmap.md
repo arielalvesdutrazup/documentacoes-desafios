@@ -8,7 +8,6 @@ outras características importantes.
 
 Um dos pilares é o da configuração, que diz que a configuração da aplicação deve ser provida pelo ambiente.
 
-> Quer saber mais sobre configuração no 12 Factor Apps? [Aqui tem uma explicação do que entendemos que você deve considerar!](../informacao_procedural/twelve-factor-config.md)
 
 O Kubernetes provê uma série de primitivas, elementos que estão presentes em todas instalações do Kubernetes,
 que nos ajudam a lidar com problemas de deployments de aplicações.
@@ -44,11 +43,9 @@ Para criar o ConfigMap no Kubernetes, precisamos executar o seguinte comando:
 $ kubectl apply -f <NOME DO SEU ARQUIVO>.yaml -n <NAMESPACE>
 ```
 
-> Está em dúvida de como se conectar no cluster Kubernetes? Não se preocupe! [Aqui tem uma explicação do que entendemos que você deve considerar!](../informacao_procedural/conectando_gcloud_sdk.md)
 
 Eba! Você criou seu primeiro ConfigMap no Kubernetes!
 
->  Talvez esteja se perguntando existe alguma lista de comandos mais utilizados? [Aqui você encontra essa lista!](kubernetes_kubectl.md)
 
 ## Associando ConfigMap ao [PODs](https://kubernetes.io/docs/concepts/workloads/pods/)
 
@@ -75,12 +72,10 @@ A associação acontece pela configuração do nó **envFrom** perceba que refer
 não há algum mecanismo de criptografia associado. Este modelo **NÃO** deve ser utilizado para armazenar
 senhas ou informações sigilosas.
 
-Gostaria de para armazenar senhas ou informações sigilosas no Kubernetes? [Aqui você encontra como fazer isso!](../informacao_suporte/kubernetes_secret.md)
+[Kubernetes - Secret](../informacao_suporte/kubernetes_secret.md)
 
 # Informação de Suporte
 
-* Gostaria de saber mais sobre ConfigMap? [Aqui tem uma explicação do que entendemos que você deve considerar!](https://kubernetes.io/docs/concepts/configuration/configmap/)
+* [Kubernetes - ConfigMap](https://kubernetes.io/docs/concepts/configuration/configmap/)
 
-* Gostaria de saber mais detalhes sobre ConfigMap e Pod? [Aqui tem uma explicação do que entendemos que você deve considerar!](https://kubernetes.io/docs/concepts/configuration/configmap/#configmaps-and-pods)
-
-* Talvez esteja se perguntando, como eu criou um deployment no Kubernetes? [Aqui tem uma explicação do que entendemos que você deve considerar!](../informacao_suporte/kubernetes_deployment.md)
+* [Kubernetes - ConfigMap e Pods](https://kubernetes.io/docs/concepts/configuration/configmap/#configmaps-and-pods)

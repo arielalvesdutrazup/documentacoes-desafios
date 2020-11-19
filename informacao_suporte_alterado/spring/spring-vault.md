@@ -41,7 +41,6 @@ Agora que adicionamos as propriedades, precisamos adicionar um gerenciador de de
 </dependencyManagement>
 ```
 
-Gostaria de saber mais sobre Dependency Management no Maven? [Aqui tem uma explicação do que entendemos que você deve considerar!](https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html)
 
 Agora que está tudo configurado (Propriedades e Dependency Management), precisamos adicionar a seguinte dependência:
 
@@ -96,21 +95,16 @@ Agora cadastre as mesmas propriedades no `Vault` de acordo com o `secret` config
 $ vault kv put secret/my-secret database.username=luramarchanjo database.password=1234567890
 ````
 
-Inicie sua aplicação conforme desejar ou utilizando o comando `mvn clean spring-boot:run` e verifique se as 
-propriedades cadastradas no Vault foram carregadas com os valores corretos!
+Inicie sua aplicação conforme desejar ou utilizando o comando `mvn clean spring-boot:run` e verifique se as propriedades cadastradas no Vault foram carregadas com os valores corretos!
 
 Deu tudo certo? Demais né!
 
-Em tempo de inicialização o Spring irá carregar as propriedades cadastradas no `Vault` na secret `my-secret` e irá 
-substituir os valores, caso as propriedades existam no arquivo `application.properties`, pelo valor configurado no `Vault`.
+Em tempo de inicialização o Spring irá carregar as propriedades cadastradas no `Vault` na secret `my-secret` e irá substituir os valores, caso as propriedades existam no arquivo `application.properties`, pelo valor configurado no `Vault`.
 
-Caso a propriedade esteja mapeada no arquivo `application.properties` e não no `Vault` será considerado o valor do arquivo 
-ou da variável de ambiente, caso configurado, como por exemplo, a propriedade `database.platform` na qual não foi 
-configurada no `Vault`, portanto, o Spring irá considerar o valor `MySQL` caso a variável de ambiente `DATABASE_PLATFORM` 
+Caso a propriedade esteja mapeada no arquivo `application.properties` e não no `Vault` será considerado o valor do arquivo ou da variável de ambiente, caso configurado, como por exemplo, a propriedade `database.platform` na qual não foi configurada no `Vault`, portanto, o Spring irá considerar o valor `MySQL` caso a variável de ambiente `DATABASE_PLATFORM` 
 não existir!
 
 # Informação de Suporte
 
-Quer saber mais sobre Spring Vault? Acesse o [link!](https://spring.io/projects/spring-vault#overview)
+[Spring Vault](https://spring.io/projects/spring-vault#overview)
 
-Quer saber mais sobre Vault? Acesse o [link!](https://www.vaultproject.io/)

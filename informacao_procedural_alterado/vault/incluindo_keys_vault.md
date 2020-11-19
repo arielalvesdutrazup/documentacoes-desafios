@@ -30,8 +30,7 @@ Pronto, seus segredos estão guardados dentro de um cofre!
 
 Agora suas aplicações podem se conectar e consumir os valores sensíveis quando necessário!
 
-E que tal um desafio? Tem um jeito ainda mais seguro de proteger seus segredos
-que tal dar uma olhada nas "policies" do Vault. [Esse link dá uma boa explicação!](https://www.vaultproject.io/docs/concepts/policies)
+[Vault - Politicas](https://www.vaultproject.io/docs/concepts/policies)
 
 Tente aplicar uma política para que somente sua aplicação possa acessar determinada secret! Depois é claro
 nos conte o resultado!
@@ -68,8 +67,6 @@ Demais né! Agora você consegue executar comandos diretamente dentro do contain
 
 ## Informações de suporte
 
-* Está em dúvida sobre o que é Vault? Não se preocupe! [Aqui tem uma explicação do que entendemos que você deve considerar!](https://www.vaultproject.io/docs/what-is-vault)
+* [Vault - Login](https://www.vaultproject.io/docs/commands/login)
 
-* Está com dificuldade em se conectar no Vault? Não tem problema! [Aqui tem uma explicação do que entendemos que você deve considerar!](https://www.vaultproject.io/docs/commands/login)
-
-* Está com dificuldade em habilitar o Secret Engine no Vault? Não tem problema! [Aqui tem uma explicação do que entendemos que você deve considerar!](https://www.vaultproject.io/docs/commands/secrets/enable)
+* [Vault - Habilitar Secret Engine](https://www.vaultproject.io/docs/commands/secrets/enable)

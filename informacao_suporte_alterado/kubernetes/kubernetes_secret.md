@@ -8,8 +8,6 @@ outras características importantes.
 
 Um dos pilares é o da configuração, que diz que a configuração da aplicação deve ser provida pelo ambiente.
 
-> Quer saber mais sobre configuração no 12 Factor Apps? [Aqui tem uma explicação do que entendemos que você deve considerar!](../informacao_procedural/twelve-factor-config.md)
-
 O Kubernetes provê uma série de primitivas, elementos que estão presentes em todas instalações do Kubernetes,
 que nos ajudam a lidar com problemas de deployments de aplicações.
 
@@ -48,11 +46,8 @@ Para criar a Secret no Kubernetes, precisamos executar o seguinte comando:
 $ kubectl apply -f <NOME DO SEU ARQUIVO>.yaml -n <NAMESPACE>
 ```
 
-> Está em dúvida de como se conectar no cluster Kubernetes? Não se preocupe! [Aqui tem uma explicação do que entendemos que você deve considerar!](../informacao_procedural/conectando_gcloud_sdk.md)
-
 Eba! Você criou sua primeira Secret no Kubernetes!
 
->  Talvez esteja se perguntando existe alguma lista de comandos mais utilizados? [Aqui você encontra essa lista!](kubernetes_kubectl.md)
 
 ## Associando Secret ao [PODs](https://kubernetes.io/docs/concepts/workloads/pods/)
 
@@ -82,10 +77,7 @@ Demais né!?
 
 # Informação de Suporte
 
-* Talvez esteja se perguntando o que é Base64, não se preocupe,  [aqui tem uma explicação do que entendemos que você deve considerar](https://pt.wikipedia.org/wiki/Base64)
+* [Base64 - Wikipedia](https://pt.wikipedia.org/wiki/Base64)
+* [Kubernetes - Secret](https://kubernetes.io/docs/concepts/configuration/secret/)
+* [Kubernetes - Secrets como variáveis de ambiente](https://kubernetes.io/docs/concepts/configuration/secret/#using-secrets-as-environment-variables)
 
-* Gostaria de saber mais sobre Secret? [Aqui tem uma explicação do que entendemos que você deve considerar!](https://kubernetes.io/docs/concepts/configuration/secret/)
-
-* Gostaria de saber mais detalhes sobre Secret e Pod? [Aqui tem uma explicação do que entendemos que você deve considerar!](https://kubernetes.io/docs/concepts/configuration/secret/#using-secrets-as-environment-variables)
-
-* Talvez esteja se perguntando, como eu criou um deployment no Kubernetes? [Aqui tem uma explicação do que entendemos que você deve considerar!](../informacao_suporte/kubernetes_deployment.md) 

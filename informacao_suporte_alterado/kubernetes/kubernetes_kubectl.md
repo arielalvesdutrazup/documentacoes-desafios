@@ -68,4 +68,4 @@ kubectl get deployments <deployment_name> -n <namespace> -o json
 
 # Informação de Suporte
 
-Gostaria de saber mais sobre os comandos do kubectl? Acesse o [link!](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
+[Comandos `kubectl`](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)

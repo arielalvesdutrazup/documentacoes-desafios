@@ -57,10 +57,7 @@ de custos, pergunte no nosso canal, caso você tenha algum problema de conexão 
 
 ## Informações de suporte
 
-* Talvez você possa estar se perguntando, onde posso achar mais informações sobre o gcloud-sdk. [Este link conta com algumas informações úteis!](https://cloud.google.com/sdk)
-  
-  * Mas se por algum motivo você não tem a ferramenta instalada, não tem problema, [este link pode te ajudar a instalá-la](https://cloud.google.com/sdk/install)
-  
-  * Se você se interessou pela ferramenta [este link contém mais uma série de comandos úteis](https://cloud.google.com/sdk/gcloud)
-
-* Se você está se perguntando, onde posso encontrar mais detalhes do serviço GKE, [este link contém algumas informações legais](https://cloud.google.com/kubernetes-engine)   
+* [Google Cloud SDK](https://cloud.google.com/sdk)
+* [Google Cloud SDK - Instalação](https://cloud.google.com/sdk/install)
+* [GCloud](https://cloud.google.com/sdk/gcloud)
+* [Google Cloud e Kubernetes Engine](https://cloud.google.com/kubernetes-engine)   
